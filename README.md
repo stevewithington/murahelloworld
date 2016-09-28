@@ -2,6 +2,8 @@
 
 This is an example 'hello world' display object for [Mura CMS](http://www.getmura.com) v7.
 
+Also see [http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/](http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/) for more details about display objects in Mura 7.
+
 ## License
 Copyright 2016 Stephen J. Withington, Jr.
 
