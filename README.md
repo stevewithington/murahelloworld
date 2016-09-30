@@ -4,6 +4,11 @@ This is an example 'hello world' display object for [Mura CMS](http://www.getmur
 
 Also see [http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/](http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/) for more details about display objects in Mura 7.
 
+## Please Note
+This is intended for Mura CMS (v7+) training purposes only. It should **not** be used for production purposes.
+
+This is the CFML branch of the [mura-dsphelloworld project](https://github.com/stevewithington/muracontacts/tree/cfml). It is intended to be an example of how a ColdFusion/CFML developer might approach creating an ultra-simple display object.
+
 ## License
 Copyright 2016 Stephen J. Withington, Jr.
 
