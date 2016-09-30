@@ -1,5 +1,5 @@
 // Mura.DisplayObject.{display-object-directory-name}
-Mura.DisplayObject.dsphelloworld = Mura.UI.extend({
+Mura.DisplayObject.murahelloworld = Mura.UI.extend({
 
   // Mura invokes this method by default
   render: function() {
