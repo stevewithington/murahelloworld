@@ -1,4 +1,4 @@
-<cfparam name='objectparams.helloworldtext' default=''>
+<cfparam name="objectparams.helloworldtext" default="">
 
 <cfoutput>
   <div class="alert alert-info">
