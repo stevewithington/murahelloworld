@@ -1,4 +1,4 @@
-<cfparam name="objectParams.helloworldtext" default="">
+<cfparam name="objectparams.helloworldtext" default="">
 <cf_objectconfigurator>
     <cfoutput>
         <div class="mura-control-group">
@@ -6,7 +6,7 @@
             <input  type="text"
                     name="helloworldtext"
                     class="objectParam"
-                    value="#esapiEncode('html_attr', objectParams.helloworldtext)#">
+                    value="#esapiEncode('html_attr', objectparams.helloworldtext)#">
         </div>
     </cfoutput>
 </cf_objectconfigurator>
