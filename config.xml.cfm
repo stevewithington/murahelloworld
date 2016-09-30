@@ -1,1 +1,1 @@
-<displayobject name="Hello World" contenttypes="*" iconclass="mi-phone"/>
+<mura name="Hello World" contenttypes="*" condition="($.content('title') eq 'News')" iconclass="mi-phone"/>
