@@ -1,10 +1,13 @@
 // Mura.DisplayObject.{display-object-directory-name}
 Mura.DisplayObject.dsphelloworld = Mura.UI.extend({
-  // objectparams are available under 'this.context.{yourVar}'
 
   // Mura invokes this method by default
   render: function() {
-    Mura(this.context.targetEl).html('Hello world!');
+
+    // objectparams (configurator settings) are available under 'this.context.{yourVar}'
+    var helloworldtext = this.context.helloworldtext === undefined ? 'helloworldtext is not defined yet.' : this.context.helloworldtext;
+
+    Mura(this.context.targetEl).html('<div class="alert alert-success">' + helloworldtext + '</div>');
   }
 
 });
