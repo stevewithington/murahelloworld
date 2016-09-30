@@ -12,7 +12,7 @@ Also see [http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/
 ## Instructions
 Each branch of [this project](https://github.com/stevewithington/murahelloworld) is intended to be an example of how to create an ultra-simple display object.
 
-Switch to the desired branch, download it, and place entire directory under the theme's `display_objects` directory. For example: `{SiteID}/includes/themes/{ThemeName}/display_objects/dsphelloworld`
+Switch to the desired branch, download it, and place entire directory under the theme's `display_objects` directory. For example: `{SiteID}/includes/themes/{ThemeName}/display_objects/murahelloworld`
 
 Reload Mura CMS and a new display object option should appear in the list of available display objects when using **Inline Edit** mode. Simply drag it onto the layout in the desired region and publish.
 
