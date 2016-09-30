@@ -1,16 +1,16 @@
-# mura-dsphelloworld
+# murahelloworld
 
 This is an example 'hello world' display object for [Mura CMS](http://www.getmura.com) v7.
 
 ## Please Note
 This is intended for Mura CMS (v7+) training purposes only. It should **not** be used for production purposes.
 
-This is the JS branch of the [mura-dsphelloworld project](https://github.com/stevewithington/mura-dsphelloworld/tree/js). It is intended to be an example of how a JavaScript developer might approach creating an ultra-simple display object.
+This is the JS branch of the [murahelloworld project](https://github.com/stevewithington/murahelloworld/tree/js). It is intended to be an example of how a JavaScript developer might approach creating an ultra-simple display object.
 
 Also see [http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/](http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/) for more details about display objects in Mura 7.
 
 ## Instructions
-Each branch of [this project](https://github.com/stevewithington/mura-dsphelloworld) is intended to be an example of how to create an ultra-simple display object.
+Each branch of [this project](https://github.com/stevewithington/murahelloworld) is intended to be an example of how to create an ultra-simple display object.
 
 Switch to the desired branch, download it, and place entire directory under the theme's `display_objects` directory. For example: `{SiteID}/includes/themes/{ThemeName}/display_objects/dsphelloworld`
 
