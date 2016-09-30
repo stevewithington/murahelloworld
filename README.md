@@ -1,13 +1,13 @@
-# mura-dsphelloworld
+# murahelloworld
 
 ## Please Note
 This is intended for Mura CMS (v7+) training purposes only. It should **not** be used for production purposes.
 
 ## Instructions
-Each branch of [this project](https://github.com/stevewithington/mura-dsphelloworld) is intended to be an exmaple of how to create an ultra-simple display object.
+Each branch of [this project](https://github.com/stevewithington/murahelloworld) is intended to be an exmaple of how to create an ultra-simple display object.
 
-* [ColdFusion/CFML version](https://github.com/stevewithington/mura-dsphelloworld/tree/cfml)
-* [JavaScript version](https://github.com/stevewithington/mura-dsphelloworld/tree/js)
+* [ColdFusion/CFML version](https://github.com/stevewithington/murahelloworld/tree/cfml)
+* [JavaScript version](https://github.com/stevewithington/murahelloworld/tree/js)
 
 Switch to the desired branch, and follow the instructions listed there.
 
