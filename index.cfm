@@ -2,7 +2,7 @@
 
 <cfoutput>
   <div class="alert alert-info">
-    <h2><i class="fa fa-phone"></i> Hello World</h2>
+    <h3><i class="fa fa-phone"></i> Hello World <small>(CFML)</small></h3>
     #esapiEncode('html', objectparams.helloworldtext)#
   </div>
 </cfoutput>
