@@ -2,12 +2,14 @@
 
 This is an example 'hello world' display object for [Mura CMS](http://www.getmura.com) v7.
 
+
 ## Please Note
 This is intended for Mura CMS (v7+) training purposes only. It should **not** be used for production purposes.
 
 This is the JS branch of the [murahelloworld project](https://github.com/stevewithington/murahelloworld/tree/js). It is intended to be an example of how a JavaScript developer might approach creating an ultra-simple display object.
 
 Also see [http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/](http://www.getmura.com/blog/mura-cms-7-new-display-object-conventions/) for more details about display objects in Mura 7.
+
 
 ## Instructions
 Each branch of [this project](https://github.com/stevewithington/murahelloworld) is intended to be an example of how to create an ultra-simple display object.
@@ -16,18 +18,6 @@ Switch to the desired branch, download it, and place entire directory under the 
 
 Reload Mura CMS and a new display object option should appear in the list of available display objects when using **Inline Edit** mode. Simply drag it onto the layout in the desired region and publish.
 
-## Modifying Files
-
-If you want to be able to play around with the files, and make changes, please note that this project uses [Grunt](http://gruntjs.com/) for combining and minifying JavaScript, Less, and CSS files. If you haven't used Grunt before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide.
-
-Assuming you have [Node.js](https://nodejs.org) installed, you'll need to run `npm install` from the terminal within the project directory before running Grunt. Once you've done that, you may install the required plugins with these commands:
-
-* `npm install grunt-text-replace --save-dev`
-* `npm install grunt-contrib-handlebars --save-dev`
-* `npm install grunt-contrib-concat --save-dev`
-* `npm install grunt-contrib-uglify --save-dev`
-* `npm install grunt-contrib-less --save-dev`
-* `npm install grunt-contrib-watch --save-dev`
 
 ## License
 Copyright 2016 Stephen J. Withington, Jr.
